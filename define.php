@@ -12,7 +12,7 @@
 	define ('BLOCK_PATH'		, APPLICATION_PATH . 'block' . DS);			// Định nghĩa đường dẫn đến thư mục block							
 	define ('TEMPLATE_PATH'		, PUBLIC_PATH . 'template' . DS);			// Định nghĩa đường dẫn đến thư mục template							
 	
-	define	('ROOT_URL'			, DS . 'bestchoice' . DS);
+	define	('ROOT_URL'			, DS);
 	define	('APPLICATION_URL'	, ROOT_URL . 'application' . DS);
 	define	('PUBLIC_URL'		, ROOT_URL . 'public' . DS);
 	define	('UPLOAD_URL'		, PUBLIC_URL . 'files' . DS);

@@ -11,12 +11,12 @@
     <link href="favicon.png" rel="icon">
     <title>Martfury Admin</title>
     <link href="https://fonts.googleapis.com/css2?family=Work+Sans:wght@300;400;500;600;700&amp;display=swap" rel="stylesheet">
-    <link rel="stylesheet" href="plugins/font-awesome/css/font-awesome.min.css">
-    <link rel="stylesheet" href="fonts/Linearicons/Font/demo-files/demo.css">
-    <link rel="stylesheet" href="plugins/bootstrap/css/bootstrap.min.css">
-    <link rel="stylesheet" href="plugins/owl-carousel/assets/owl.carousel.css">
-    <link rel="stylesheet" href="plugins/select2/dist/css/select2.min.css">
-    <link rel="stylesheet" href="plugins/summernote/summernote-bs4.min.css">
-    <link rel="stylesheet" href="plugins/apexcharts-bundle/dist/apexcharts.css">
+    <!-- <link rel="stylesheet" href="fonts/Linearicons/Font/demo-files/demo.css"> -->
+    <link rel="stylesheet" href="css/font-awesome/css/font-awesome.min.css">
+    <link rel="stylesheet" href="css/bootstrap/css/bootstrap.min.css">
+    <link rel="stylesheet" href="css/owl-carousel/assets/owl.carousel.css">
+    <link rel="stylesheet" href="css/select2/dist/css/select2.min.css">
+    <link rel="stylesheet" href="css/summernote/summernote-bs4.min.css">
+    <link rel="stylesheet" href="css/apexcharts-bundle/dist/apexcharts.css">
     <link rel="stylesheet" href="css/style.css">
 </head>
